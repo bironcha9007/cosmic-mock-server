@@ -1,44 +1,6 @@
 {
   "products": [
-    {
-      "id": 10001,
-      "name": "Sombra Color Studio BEAUTY GLAZED",
-      "overview": "Paleta de sombras con 35 tonos. Tonos coloridos. Acabado mate y satinado. Calidad profesional.",
-      "long_description": "Paleta de sombras con 35 tonos. Tonos coloridos. Acabado mate y satinado. Calidad profesional.",
-      "price": 35000,
-      "poster": "https://visualgraphicmd.com.co/imagenes/2.png",
-      "image_local": "/assets/images/10001.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 5,
-      "best_seller": true
-    },
-    {
-      "id": 10002,
-      "name": "Protector Solar Facial Hombre",
-      "overview": "¡Protege tu piel con un Protector Solar diseñado exclusivamente para hombres!",
-      "long_description": "Factor de protección solar del 50+. Tiene el máximo nivel de protección solar comprobado científicamente. Textura fluida, ligera y de rápida absorción. Tiene una suave fragancia juvenil, masculina y refrescante.",
-      "price": 25000,
-      "poster": "https://visualgraphicmd.com.co/imagenes/1.png",
-      "image_local": "/assets/images/10002.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 2,
-      "best_seller": false
-    },
-    {
-      "id": 10003,
-      "name": "Sombra Color Studio BEAUTY GLAZED",
-      "overview": "Paleta de sombras con 35 tonos. Tonos coloridos. Acabado mate y satinado. Calidad profesional.",
-      "long_description": "Paleta de sombras con 35 tonos. Tonos coloridos. Acabado mate y satinado. Calidad profesional.",
-      "price": 35000,
-      "poster": "https://visualgraphicmd.com.co/imagenes/2.png",
-      "image_local": "/assets/images/10003.avif",
-      "rating": 3,
-      "in_stock": true,
-      "size": 1,
-      "best_seller": false
-    },
+    
     {
       "id": 10004,
       "name": "The Complete Guide to Backend Development",
