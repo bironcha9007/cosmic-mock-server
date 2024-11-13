@@ -2,5 +2,5 @@
     "/products*": "/444/",
     "/featured_products*": "/444/",
     "/orders*": "/660/",
-    "/users*": "/444/"
+    "/users*": "/600/"
 }
