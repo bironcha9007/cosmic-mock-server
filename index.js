@@ -10,6 +10,9 @@ dotenv.config();
 // Inicializa el servidor Express
 const server = express();
 
+// Middleware para interpretar cuerpos JSON
+server.use(express.json());  // <--- Aquí se agrega el middleware
+
 // Habilitar CORS
 server.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', '*');
