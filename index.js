@@ -17,8 +17,9 @@ const middlewares = jsonServer.defaults()
 const rules = auth.rewriter({
     products: 444,
     featured_products: 444,
+    undergraduatePrograms: 444,
     orders: 660,
-    users: 600
+    users: 644
 });
 
 server.use(rules)
