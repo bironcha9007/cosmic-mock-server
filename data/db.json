@@ -371,6 +371,24 @@
       "password": "$2a$10$gKWsb4V1wEWr/BvVKMU60.a534dBtb7zogS/r4xbiB9cdxWERNmXm",
       "name": "funda",
       "id": 3
+    },
+    {
+      "email": "bay@gmail.com",
+      "password": "$2a$10$ZiRgp5gZOLnXGmJEIVLdPOz7Gqn35wYNPMTqJQxgDLO91CTDZECgG",
+      "name": "Bayron",
+      "id": 4
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "$2a$10$Hf99EgHL9ol5pHrhy.IeoeUx1pj8J2C9J6ZX0tGgikhCXtdyRmRJe",
+      "name": "qqqq",
+      "id": 5
+    },
+    {
+      "email": "te@gmail.com",
+      "password": "$2a$10$b3eE4mNEZsQBXg6nsuUARuc/M.ZAhHPg2xAe5/nYGAkWBz16bBpAm",
+      "name": "te",
+      "id": 6
     }
   ],
   "undergraduatePrograms": [
