@@ -530,7 +530,7 @@
   "serviciosIE": [
     {
       "id": 1,
-      "servicio": "Accounting",
+      "servicio": "Orientación",
       "certification": "Bachelor of Commerce with specialization in Accounting (BComm)",
       "faculty": "School of Business",
       "title": "Lorem ipsum dolor sit amet consectetur",
@@ -542,7 +542,7 @@
     },
     {
       "id": 2,
-      "servicio": "Actuarial Science",
+      "servicio": "Secretaria",
       "certification": "Bachelor of Science (BSc)",
       "faculty": "School of Business",
       "title": "Unlocking the World of Risk Management and Financial Analysis",
@@ -554,7 +554,7 @@
     },
     {
       "id": 3,
-      "servicio": "Anatomy",
+      "servicio": "Contabilidad",
       "certification": "Bachelor of Science (BSc)",
       "faculty": "Faculty of Basic Medical Science",
       "title": "Lorem ipsum dolor sit amet consectetur",
@@ -566,7 +566,7 @@
     },
     {
       "id": 4,
-      "servicio": "Anthropology",
+      "servicio": "Admisiones",
       "certification": "Bachelor of Arts (BA)",
       "faculty": "Faculty of Arts",
       "title": "Lorem ipsum dolor sit amet consectetur",
@@ -578,7 +578,7 @@
     },
     {
       "id": 5,
-      "servicio": "Aeronautical Engineering",
+      "servicio": "Plataforma GSLR",
       "certification": "Bachelor of Engineering (BEng)",
       "faculty": "Faculty of Engineering",
       "title": "Lorem ipsum dolor sit amet consectetur",
@@ -590,7 +590,7 @@
     },
     {
       "id": 6,
-      "servicio": "African and Asian Studies",
+      "servicio": "Ex-Alumnos",
       "certification": "Bachelor of Arts (BA)",
       "faculty": "Faculty of Arts",
       "title": "Lorem ipsum dolor sit amet consectetur",
@@ -602,7 +602,7 @@
     },
     {
       "id": 7,
-      "servicio": "Archaeology",
+      "servicio": "Directivos",
       "certification": "Bachelor of Arts (BA)",
       "faculty": "Faculty of Arts",
       "title": "Lorem ipsum dolor sit amet consectetur",
@@ -614,7 +614,7 @@
     },
     {
       "id": 8,
-      "servicio": "Artificial Intelligence and Machine Learning",
+      "servicio": "Pagos en Linea",
       "certification": "Bachelor of Technology (BTech)",
       "faculty": "Faculty of Computer Science",
       "title": "Lorem ipsum dolor sit amet consectetur",
@@ -626,7 +626,7 @@
     },
     {
       "id": 9,
-      "servicio": "Automobile Engineering",
+      "servicio": "Departamentos",
       "certification": "Bachelor of Engineering (BEng)",
       "faculty": "Faculty of Engineering",
       "title": "Lorem ipsum dolor sit amet consectetur",
@@ -638,7 +638,7 @@
     },
     {
       "id": 10,
-      "servicio": "Biomedical Sciences",
+      "servicio": "Boletin Semanal",
       "certification": "Bachelor of Science (BSc)",
       "faculty": "Faculty of Medical Science",
       "title": "Lorem ipsum dolor sit amet consectetur",
