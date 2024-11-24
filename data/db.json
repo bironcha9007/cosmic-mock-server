@@ -270,87 +270,11 @@
       "amount_paid": 58,
       "quantity": 2,
       "user": {
-        "name": "Shubham Sarda",
-        "email": "shubham@example.com",
-        "id": 1
-      },
-      "id": 1
-    },
-    {
-      "cartList": [
-        {
-          "id": 10001,
-          "name": "Basics To Advanced In React",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 29,
-          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10001.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 5,
-          "best_seller": true
-        },
-        {
-          "id": 10002,
-          "name": "Django Framework for Beginners",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 19,
-          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10002.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 2,
-          "best_seller": false
-        }
-      ],
-      "amount_paid": 48,
-      "quantity": 2,
-      "user": {
         "name": "dom",
         "email": "dom@gmail.com",
         "id": 2
       },
-      "id": 2
-    },
-    {
-      "cartList": [
-        {
-          "id": 10002,
-          "name": "Django Framework for Beginners",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 19,
-          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10002.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 2,
-          "best_seller": false
-        },
-        {
-          "id": 10001,
-          "name": "Basics To Advanced In React",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 29,
-          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10001.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 5,
-          "best_seller": true
-        }
-      ],
-      "amount_paid": 48,
-      "quantity": 2,
-      "user": {
-        "name": "funda",
-        "email": "elfundador@funcol.edu.co",
-        "id": 3
-      },
-      "id": 3
+      "id": 1
     }
   ],
   "users": [
@@ -377,150 +301,127 @@
       "password": "$2a$10$ZiRgp5gZOLnXGmJEIVLdPOz7Gqn35wYNPMTqJQxgDLO91CTDZECgG",
       "name": "Bayron",
       "id": 4
-    },
-    {
-      "email": "q@gmail.com",
-      "password": "$2a$10$Hf99EgHL9ol5pHrhy.IeoeUx1pj8J2C9J6ZX0tGgikhCXtdyRmRJe",
-      "name": "qqqq",
-      "id": 5
-    },
-    {
-      "email": "te@gmail.com",
-      "password": "$2a$10$b3eE4mNEZsQBXg6nsuUARuc/M.ZAhHPg2xAe5/nYGAkWBz16bBpAm",
-      "name": "te",
-      "id": 6
-    },
-    {
-      "email": "ss@gmail.com",
-      "password": "$2a$10$gG/IqY0T1xSCMESr3vt1dOHFmKl/.QYinQrG1h7AZ8ksF/OSv8.4q",
-      "name": "tes",
-      "id": 7
-    },
-    {
-      "email": "teq@gmail.com",
-      "password": "$2a$10$HXqqoy352rgm88Cb/N2IhOaTvaUt3BOCMZuH5hb6zrZzsabLEMeay",
-      "name": "teq",
-      "id": 8
     }
+
   ],
   "undergraduatePrograms": [
     {
       "id": 1,
-      "program": "Accounting",
+      "program": "MATEMÁTICAS",
       "certification": "Bachelor of Commerce with specialization in Accounting (BComm)",
       "faculty": "School of Business",
       "title": "Lorem ipsum dolor sit amet consectetur",
       "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://www.freshbooks.com/wp-content/uploads/2022/02/8-branches-of-accounting.jpg"
     },
     {
       "id": 2,
-      "program": "Actuarial Science",
+      "program": "SOCIALES",
       "certification": "Bachelor of Science (BSc)",
       "faculty": "School of Business",
       "title": "Unlocking the World of Risk Management and Financial Analysis",
       "info": "The Actuarial Science program at school is designed to equip students with the skills and knowledge required to become proficient actuaries in the dynamic and ever-evolving world of risk management and financial analysis. Actuaries are essential professionals in various industries, especially insurance, finance, and consulting, as they play a critical role in assessing and managing risk.",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "The Actuarial Science Program provides students with a comprehensive skill set to excel in the actuarial profession, making them valuable assets in risk management and financial planning across various industries",
       "imageURL": "https://sell.g2.com/hubfs/actuarial-science.jpg"
     },
     {
       "id": 3,
-      "program": "Anatomy",
+      "program": "INGLES",
       "certification": "Bachelor of Science (BSc)",
       "faculty": "Faculty of Basic Medical Science",
       "title": "Lorem ipsum dolor sit amet consectetur",
       "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://www.ualberta.ca/medicine/media-library/programs/md-program/website-update/elevatorcover.jpg"
     },
     {
       "id": 4,
-      "program": "Anthropology",
+      "program": "LENGUAJE",
       "certification": "Bachelor of Arts (BA)",
       "faculty": "Faculty of Arts",
       "title": "Lorem ipsum dolor sit amet consectetur",
       "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://www.niu.edu/academics/undergraduate/images/anthropology.jpg"
     },
     {
       "id": 5,
-      "program": "Aeronautical Engineering",
+      "program": "ARTES",
       "certification": "Bachelor of Engineering (BEng)",
       "faculty": "Faculty of Engineering",
       "title": "Lorem ipsum dolor sit amet consectetur",
       "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://daytonabeach.erau.edu/-/media/images/daytona-beach/coe/ae-homepage.jpg?as=0&hash=10EE8B71AC1D5C525FB22BE8F20878C1"
     },
     {
       "id": 6,
-      "program": "African and Asian Studies",
+      "program": "BIOLOGÍA",
       "certification": "Bachelor of Arts (BA)",
       "faculty": "Faculty of Arts",
       "title": "Lorem ipsum dolor sit amet consectetur",
       "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pldphYhnapqcp9UlkTAzF1Hh6QwkMtopjg&usqp=CAU"
     },
     {
       "id": 7,
-      "program": "Archaeology",
+      "program": "FILOSOFÍA",
       "certification": "Bachelor of Arts (BA)",
       "faculty": "Faculty of Arts",
       "title": "Lorem ipsum dolor sit amet consectetur",
       "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://www.archaeological.org/wp-content/uploads/2019/05/10462426_319125484903742_6095597394966512761_o_2.jpg"
     },
     {
       "id": 8,
-      "program": "Artificial Intelligence and Machine Learning",
+      "program": "DANZAS",
       "certification": "Bachelor of Technology (BTech)",
       "faculty": "Faculty of Computer Science",
       "title": "Lorem ipsum dolor sit amet consectetur",
       "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://sru.edu.in/assets/schools/cse/ai-ml-banner.png"
     },
     {
       "id": 9,
-      "program": "Automobile Engineering",
+      "program": "ETICA Y RELIGIÓN",
       "certification": "Bachelor of Engineering (BEng)",
       "faculty": "Faculty of Engineering",
       "title": "Lorem ipsum dolor sit amet consectetur",
       "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://iukl.edu.my/wp-content/uploads/2018/01/diploma-in-automotive-engineering.png"
     },
     {
       "id": 10,
-      "program": "Biomedical Sciences",
+      "program": "EDUCACIÓN FISICA",
       "certification": "Bachelor of Science (BSc)",
       "faculty": "Faculty of Medical Science",
       "title": "Lorem ipsum dolor sit amet consectetur",
       "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
       "duration": "Four years",
-      "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto hic qui vel in quidem saepe consectetur, laboriosam reprehenderit animi voluptatem magni laudantium, repudiandae necessitatibus ut, ipsa atque facilis illo eos harum alias et! Nulla dolorum placeat corporis nisi rerum maxime quia perspiciatis, eius ratione quam consequatur numquam quaerat. Nam quasi error omnis facere quaerat amet voluptate cum corporis veniam maiores sunt, iure ad alias labore, veritatis aspernatur quis dolore rerum aliquid nobis, voluptatem recusandae voluptatum at necessitatibus. Blanditiis, id ad.",
+      "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://beal.edu/wp-content/uploads/2019/09/istock_9534994-hero.jpg"
     }
