@@ -428,6 +428,58 @@
     
   ]
   ,
+  "departamentosIE": [
+    {
+      "id": 1,
+      "departamento": "RECTORIA",
+      "certification": "Bachelor of Commerce with specialization in Accounting (BComm)",
+      "faculty": "School of Business",
+      "title": "Lorem ipsum dolor sit amet consectetur",
+      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
+      "duration": "Four years",
+      "details": "descripción departamento.",
+      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "imageURL": "https://www.freshbooks.com/wp-content/uploads/2022/02/8-branches-of-accounting.jpg"
+    },
+    {
+      "id": 2,
+      "departamento": "COORDINACIÓN",
+      "certification": "Bachelor of Science (BSc)",
+      "faculty": "School of Business",
+      "title": "Unlocking the World of Risk Management and Financial Analysis",
+      "info": "The Actuarial Science program at school is designed to equip students with the skills and knowledge required to become proficient actuaries in the dynamic and ever-evolving world of risk management and financial analysis. Actuaries are essential professionals in various industries, especially insurance, finance, and consulting, as they play a critical role in assessing and managing risk.",
+      "duration": "Four years",
+      "details": "descripción departamento.",
+      "curriculum": "The Actuarial Science Program provides students with a comprehensive skill set to excel in the actuarial profession, making them valuable assets in risk management and financial planning across various industries",
+      "imageURL": "https://sell.g2.com/hubfs/actuarial-science.jpg"
+    },
+    {
+      "id": 3,
+      "departamento": "ASO PADRES",
+      "certification": "Bachelor of Science (BSc)",
+      "faculty": "Faculty of Basic Medical Science",
+      "title": "Lorem ipsum dolor sit amet consectetur",
+      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
+      "duration": "Four years",
+      "details": "descripción departamento.",
+      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "imageURL": "https://www.ualberta.ca/medicine/media-library/programs/md-program/website-update/elevatorcover.jpg"
+    },
+    {
+      "id": 4,
+      "departamento": "SENA",
+      "certification": "Bachelor of Arts (BA)",
+      "faculty": "Faculty of Arts",
+      "title": "Lorem ipsum dolor sit amet consectetur",
+      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
+      "duration": "Four years",
+      "details": "descripción departamento.",
+      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "imageURL": "https://www.niu.edu/academics/undergraduate/images/anthropology.jpg"
+    }
+    
+  ]
+  ,
   "serviciosIE": [
     {
       "id": 1,

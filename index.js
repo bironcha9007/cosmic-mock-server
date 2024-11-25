@@ -19,6 +19,7 @@ const rules = auth.rewriter({
     featured_products: 444,
     undergraduatePrograms: 444,
     serviciosIE: 444,
+    departamentosIE: 444,
     orders: 644,
     users: 644
 });
