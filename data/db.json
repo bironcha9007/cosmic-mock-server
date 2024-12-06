@@ -223,80 +223,85 @@
       "password": "$2a$10$ZiRgp5gZOLnXGmJEIVLdPOz7Gqn35wYNPMTqJQxgDLO91CTDZECgG",
       "name": "Bayron",
       "id": 4
+    },
+    {
+      "email": "aaa@gmail.com",
+      "password": "$2a$10$Y50WACqtimHHpA9vyfMKy.yoYgN5u7kA3u9u6NjF1nBQBpKoQiq9O",
+      "name": "aaa",
+      "id": 5
     }
-
   ],
   "undergraduatePrograms": [
     {
       "id": 1,
       "program": "MATEMÁTICAS",
-      "certification": "Bachelor of Commerce with specialization in Accounting (BComm)",
-      "faculty": "School of Business",
-      "title": "Lorem ipsum dolor sit amet consectetur",
-      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
-      "duration": "Four years",
-      "details": "descripción departamento.",
-      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "certification": "Enseñanza Académica de Matemáticas",
+      "faculty": "Departamento de Ciencias Exactas",
+      "title": "Desarrolla habilidades lógicas y matemáticas esenciales",
+      "info": "El programa de Matemáticas fomenta el razonamiento lógico, la resolución de problemas y el pensamiento crítico. Nuestros estudiantes se sumergen en conceptos fundamentales y avanzados que son pilares para diversas disciplinas científicas y tecnológicas.",
+      "duration": "Educación Básica y Media",
+      "details": "El departamento de matemáticas ofrece recursos innovadores para fomentar el aprendizaje práctico y la excelencia académica en la disciplina.",
+      "curriculum": "Incluye aritmética, álgebra, geometría, cálculo y probabilidad, con un enfoque en la resolución de problemas reales y competencias aplicadas.",
       "imageURL": "https://www.freshbooks.com/wp-content/uploads/2022/02/8-branches-of-accounting.jpg"
     },
     {
       "id": 2,
       "program": "SOCIALES",
-      "certification": "Bachelor of Science (BSc)",
-      "faculty": "School of Business",
-      "title": "Unlocking the World of Risk Management and Financial Analysis",
-      "info": "The Actuarial Science program at school is designed to equip students with the skills and knowledge required to become proficient actuaries in the dynamic and ever-evolving world of risk management and financial analysis. Actuaries are essential professionals in various industries, especially insurance, finance, and consulting, as they play a critical role in assessing and managing risk.",
-      "duration": "Four years",
-      "details": "descripción departamento.",
-      "curriculum": "The Actuarial Science Program provides students with a comprehensive skill set to excel in the actuarial profession, making them valuable assets in risk management and financial planning across various industries",
+      "certification": "Formación Integral en Ciencias Sociales",
+      "faculty": "Departamento de Ciencias Sociales y Humanidades",
+      "title": "Comprende el pasado para construir el futuro",
+      "info": "Este programa ayuda a los estudiantes a explorar la historia, la geografía y las estructuras sociales. Fomentamos una comprensión profunda de las dinámicas culturales y políticas, promoviendo la ciudadanía activa y crítica.",
+      "duration": "Educación Básica y Media",
+      "details": "El programa combina teoría y práctica para estudiar fenómenos históricos y sociales en contextos locales y globales.",
+      "curriculum": "Historia universal, geografía humana, educación cívica y análisis social con un enfoque interdisciplinario.",
       "imageURL": "https://sell.g2.com/hubfs/actuarial-science.jpg"
     },
     {
       "id": 3,
-      "program": "INGLES",
-      "certification": "Bachelor of Science (BSc)",
-      "faculty": "Faculty of Basic Medical Science",
-      "title": "Lorem ipsum dolor sit amet consectetur",
-      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
-      "duration": "Four years",
-      "details": "descripción departamento.",
-      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "program": "INGLÉS",
+      "certification": "Proficiency en Lengua Inglesa",
+      "faculty": "Departamento de Lenguas Extranjeras",
+      "title": "Domina el idioma del mundo globalizado",
+      "info": "El programa de inglés está diseñado para desarrollar habilidades comunicativas avanzadas, incluyendo lectura, escritura, escucha y expresión oral. Prepara a los estudiantes para oportunidades académicas y profesionales internacionales.",
+      "duration": "Educación Básica y Media",
+      "details": "Clases dinámicas con énfasis en el aprendizaje práctico del idioma mediante tecnología y recursos interactivos.",
+      "curriculum": "Gramática inglesa, comprensión de lectura, fonética, redacción y conversaciones avanzadas.",
       "imageURL": "https://www.ualberta.ca/medicine/media-library/programs/md-program/website-update/elevatorcover.jpg"
     },
     {
       "id": 4,
       "program": "LENGUAJE",
-      "certification": "Bachelor of Arts (BA)",
-      "faculty": "Faculty of Arts",
-      "title": "Lorem ipsum dolor sit amet consectetur",
-      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
-      "duration": "Four years",
-      "details": "descripción departamento.",
-      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "certification": "Enseñanza en Comunicación y Literatura",
+      "faculty": "Departamento de Lengua Castellana",
+      "title": "Expresa tus ideas y descubre el poder de las palabras",
+      "info": "El programa de Lenguaje fortalece la expresión escrita y oral, promoviendo el análisis crítico de textos literarios y académicos. Nuestros estudiantes desarrollan habilidades fundamentales para comunicarse de manera efectiva.",
+      "duration": "Educación Básica y Media",
+      "details": "Enfocado en el aprendizaje del idioma español con actividades que integran lectura, escritura creativa y análisis literario.",
+      "curriculum": "Análisis de textos literarios, redacción creativa, gramática avanzada y comprensión crítica.",
       "imageURL": "https://www.niu.edu/academics/undergraduate/images/anthropology.jpg"
     },
     {
       "id": 5,
       "program": "ARTES",
-      "certification": "Bachelor of Engineering (BEng)",
-      "faculty": "Faculty of Engineering",
-      "title": "Lorem ipsum dolor sit amet consectetur",
-      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
-      "duration": "Four years",
-      "details": "descripción departamento.",
-      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "certification": "Formación en Expresión Artística",
+      "faculty": "Departamento de Artes Visuales",
+      "title": "Explora y desarrolla tu creatividad",
+      "info": "El programa de Artes proporciona un espacio para que los estudiantes descubran y desarrollen su talento artístico. A través de técnicas tradicionales y contemporáneas, fomentamos la expresión personal y el pensamiento innovador.",
+      "duration": "Educación Básica y Media",
+      "details": "Nuestros talleres están equipados para el aprendizaje práctico en dibujo, pintura, escultura y medios digitales.",
+      "curriculum": "Introducción al dibujo, pintura avanzada, arte digital y proyectos creativos interdisciplinarios.",
       "imageURL": "https://daytonabeach.erau.edu/-/media/images/daytona-beach/coe/ae-homepage.jpg?as=0&hash=10EE8B71AC1D5C525FB22BE8F20878C1"
     },
     {
       "id": 6,
       "program": "BIOLOGÍA",
       "certification": "Bachelor of Arts (BA)",
-      "faculty": "Faculty of Arts",
-      "title": "Lorem ipsum dolor sit amet consectetur",
-      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
+      "faculty": "Departamento de Biología",
+      "title": "Explora la Diversidad de la Vida",
+      "info": "Este programa desarrolla un entendimiento profundo de la biodiversidad, los sistemas ecológicos y la relación entre organismos y su entorno. Es ideal para estudiantes apasionados por la ciencia y el medioambiente.",
       "duration": "Four years",
-      "details": "descripción departamento.",
-      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "details": "El departamento de Biología promueve una enseñanza práctica con laboratorios avanzados y proyectos de investigación.",
+      "curriculum": "Combina el estudio teórico y práctico en áreas como genética, microbiología y conservación ambiental, preparando a los estudiantes para contribuir al desarrollo sostenible y la ciencia aplicada.",
       "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pldphYhnapqcp9UlkTAzF1Hh6QwkMtopjg&usqp=CAU"
     },
     {
@@ -311,7 +316,6 @@
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://www.archaeological.org/wp-content/uploads/2019/05/10462426_319125484903742_6095597394966512761_o_2.jpg"
     },
-  
     {
       "id": 8,
       "program": "ETICA Y RELIGIÓN",
@@ -325,7 +329,7 @@
       "imageURL": "https://iukl.edu.my/wp-content/uploads/2018/01/diploma-in-automotive-engineering.png"
     },
     {
-      "id":9,
+      "id": 9,
       "program": "EDUCACIÓN FISICA",
       "certification": "Bachelor of Science (BSc)",
       "faculty": "Faculty of Medical Science",
@@ -348,9 +352,7 @@
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://beal.edu/wp-content/uploads/2019/09/istock_9534994-hero.jpg"
     }
-    
-  ]
-  ,
+  ],
   "departamentosIE": [
     {
       "id": 1,
@@ -399,10 +401,32 @@
       "details": "descripción departamento.",
       "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
       "imageURL": "https://www.niu.edu/academics/undergraduate/images/anthropology.jpg"
+    },
+    {
+      "id": 5,
+      "departamento": "EX-ALUMNOS",
+      "certification": "Bachelor of Arts (BA)",
+      "faculty": "Faculty of Arts",
+      "title": "Lorem ipsum dolor sit amet consectetur",
+      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
+      "duration": "Four years",
+      "details": "descripción departamento.",
+      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "imageURL": "https://www.niu.edu/academics/undergraduate/images/anthropology.jpg"
+    },
+    {
+      "id": 6,
+      "departamento": "SECRETARIA",
+      "certification": "Bachelor of Arts (BA)",
+      "faculty": "Faculty of Arts",
+      "title": "Lorem ipsum dolor sit amet consectetur",
+      "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla praesentium amet voluptas rem reiciendis harum, minima ipsa molestias accusamus eveniet porro? Similique vero velit nostrum delectus maxime exercitationem officiis. A beatae autem sequi sed! Neque id officiis quam modi nulla, culpa omnis sequi ut deserunt, cumque nesciunt beatae aspernatur earum non? Similique sunt sit asperiores officia enim? Modi, tenetur culpa!",
+      "duration": "Four years",
+      "details": "descripción departamento.",
+      "curriculum": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non sed sit fuga, pariatur iusto nobis natus dolore eveniet. Quibusdam provident corporis totam molestias laboriosam nemo ducimus commodi quis. Ex quidem, recusandae tenetur officia nihil, eum fugit reiciendis placeat asperiores enim consequuntur vitae. Dolorem, cum aliquam?",
+      "imageURL": "https://www.niu.edu/academics/undergraduate/images/anthropology.jpg"
     }
-    
-  ]
-  ,
+  ],
   "serviciosIE": [
     {
       "id": 1,
@@ -440,7 +464,7 @@
       "duration": "Atención en horarios administrativos",
       "details": "Gestión de pagos, presupuestos, recibos y consultas relacionadas con costos de servicios y actividades.",
       "curriculum": "Técnicas avanzadas de contabilidad aplicadas al entorno educativo.",
-      "imageURL": "https://www.ualberta.ca/medicine/media-library/programs/md-program/website-update/elevatorcover.jpg",
+      "imageURL": "https://integradosoacha.netlify.app/static/media/filosofia.b9b4e7447b25ee29c2fb.jpg",
       "linkURL": "https://gssoftwareysoluciones.com/2024/"
     },
     {
